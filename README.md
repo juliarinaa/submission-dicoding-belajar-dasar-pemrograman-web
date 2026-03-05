@@ -1,4 +1,4 @@
-# Submission Dicoding: Belajar Dasar Pemrograman Web
+# Dicoding Submission: Belajar Dasar Pemrograman Web
 This project was developed as the final submission for the "Belajar Dasar Pemrograman Web" course on Dicoding.
 
 ## Tech Stack
