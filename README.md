@@ -1,5 +1,5 @@
 # Submission Dicoding: Belajar Dasar Pemrograman Web
-Proyek ini merupakan proyek akhir yang digunakan untuk menyelesaikan kelas Belajar Dasar Pemrograman Web dari Dicoding
+This project was developed as the final submission for the "Belajar Dasar Pemrograman Web" course on Dicoding.
 
 ## Tech Stack
 - HTML
@@ -18,3 +18,8 @@ Proyek ini merupakan proyek akhir yang digunakan untuk menyelesaikan kelas Belaj
 - Horizontal scroll carousel (JavaScript-powered)
 - Smooth scrolling interaction
 - Custom Google Fonts styling
+
+Some product images are sourced from:
+- https://emskl.com/?srsltid=AfmBOopiuPvz1_U0yWgoMxNviZ6yeVqS6ALiPsTZ_5f4fA38MqTw8gBR
+
+This project is created for educational purposes only and not for commercial use.
