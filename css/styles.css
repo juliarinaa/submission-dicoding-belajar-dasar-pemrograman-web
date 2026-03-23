@@ -72,13 +72,21 @@ main .content {
     gap: 20px;
     min-height: 80vh;
     align-items: center;
-    padding-bottom: 80px;
     padding-inline: 50px;
 }
+
+main .content .content-description {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+}
+
 
 main .content .content-description .title {
     font-size: 2.7rem;
     margin-bottom: 0;
+    margin-top: 0;
 }
 
 main .content .content-description p {
@@ -194,7 +202,7 @@ main aside ul li button {
 }
 
 footer {
-    margin-top: 50px;
+    margin-top: 30px;
     background-color: #802942;
     width: 100vw;
     height: 5rem;
@@ -238,5 +246,9 @@ footer p {
 
     main .content .content-description p {
         font-size: 1.1rem;
+    }
+
+    main aside {
+        margin-top: 80px;
     }
 }
