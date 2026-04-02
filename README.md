@@ -1,5 +1,5 @@
-# Dicoding Submission: Belajar Dasar Pemrograman Web
-This project was developed as the final submission for the "Belajar Dasar Pemrograman Web" course on Dicoding.
+# Cookie Store Landing Page
+This project was developed as the final submission for the "Belajar Dasar Pemrograman Web" course on Dicoding, earning a perfect 5/5 rating upon completion by successfully meeting all evaluation criteria and recommendations.
 
 ## Demo
 https://hello-cookie-project.netlify.app/
@@ -22,7 +22,9 @@ https://hello-cookie-project.netlify.app/
 - Smooth scrolling interaction
 - Custom Google Fonts styling
 
-Some product images are sourced from:
-- https://emskl.com/?srsltid=AfmBOopiuPvz1_U0yWgoMxNviZ6yeVqS6ALiPsTZ_5f4fA38MqTw8gBR
+## Certificate Link
+https://www.dicoding.com/certificates/72ZDJ29MVZYW
 
-This project is created for educational purposes only and not for commercial use.
+<br>Some product images are sourced from:<br> 
+https://emskl.com/?srsltid=AfmBOopiuPvz1_U0yWgoMxNviZ6yeVqS6ALiPsTZ_5f4fA38MqTw8gBR<br>
+<br>This project is created for educational purposes only and not for commercial use.
